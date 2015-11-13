@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Shell</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">Output</string>
+    <string name="title_activity_next">Output</string>
+    <string name="title_activity_traceroute">Traceroute</string>
+    <string name="title_activity_scan">PortScan</string>
+    <string name="title_activity_next_activity_scan">Output</string>
+    <string name="title_activity_output_scan">Output Scan</string>
+
+</resources>
